@@ -108,19 +108,6 @@ CGPA: 3.38 / 4.00
 - 📄 **Prediction of Vaccination Side-Effects Using Deep Learning**
   *2nd International Conference on Machine Learning Techniques and NLP — Copenhagen, Denmark*
 
----
-
-## 📂 Repositories
-
-| Repository | Description | Tools |
-|---|---|---|
-| [🔗 postman-api-collections](https://github.com/Zulkernayen75/postman-api-collections) | REST API test collections with environment configs | Postman, Newman |
-| [🔗 appium-android-automation](https://github.com/Zulkernayen75/appium-android-automation) | Android mobile automation scripts | Appium, Python |
-| [🔗 test-case-templates](https://github.com/Zulkernayen75/test-case-templates) | Structured test case templates for web & mobile | Excel, Markdown |
-| [🔗 jmeter-performance-tests](https://github.com/Zulkernayen75/jmeter-performance-tests) | Load & stress test plans | Apache JMeter |
-| [🔗 qa-resources](https://github.com/Zulkernayen75/qa-resources) | QA checklists, test plans, and documentation templates | Markdown |
-
----
 
 ## 📈 GitHub Stats
 
