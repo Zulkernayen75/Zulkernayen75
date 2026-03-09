@@ -83,9 +83,9 @@ I am a **Software Quality Assurance Engineer** with **2+ years of progressive ex
 - Achieved on-time UAT sign-off across multiple client-facing releases
 
 ### 🔹 Assistant SQA Engineer — Bengal Mobile QA Solution *(Jan 2024 – Aug 2025)*
-- Designed and executed **200+ structured test cases** with full requirements traceability
+- Designed and executed **1000+ structured test cases** with full requirements traceability
 - Validated **30+ REST APIs** via Postman across 6 modules
-- Logged and tracked **100+ defects** in JIRA end-to-end
+- Logged and tracked **200+ defects** in JIRA end-to-end
 - Reduced test design time by **30%** using ChatGPT & Claude AI
 
 ### 🔹 Customer Success Specialist *(Remote)* — PolyUno LLC., USA *(Dec 2021 – Aug 2023)*
@@ -96,7 +96,6 @@ I am a **Software Quality Assurance Engineer** with **2+ years of progressive ex
 ## 🎓 Education
 
 **BSc in Computer Science & Engineering** — BRAC University, Dhaka *(2017–2021)*
-CGPA: 3.38 / 4.00
 
 ---
 
